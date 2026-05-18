@@ -1,7 +1,11 @@
 package com.leonardoricardo.usuario.business.dto;
 
-import com.leonardoricardo.usuario.infrastructure.entity.Endereco;
-import com.leonardoricardo.usuario.infrastructure.entity.Telefone;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+
 import lombok.*;
 
 import java.util.List;
